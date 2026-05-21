@@ -27,7 +27,7 @@ The Application does **not** collect, process, store, or transmit any personal d
 
 ## 3. Network and API Usage
 
-The Application operates **entirely offline**. It does not make any network requests, API calls, or external communications of any kind. All content is pre-bundled within the Application and does not require an internet connection to function.
+The Application is primarily **offline**. However, it may open external links to third-party websites (such as Wikipedia) within the device's default browser for supplementary reference. The Application itself does not make any background network requests or API calls.
 
 ---
 
@@ -37,7 +37,11 @@ The Application does not transmit any data to external servers or third parties.
 
 ---
 
-## 5. Third-Party Services
+## 5. Third-Party Websites
+
+The Application may contain links to external websites, including **Wikipedia** ([https://www.wikipedia.org](https://www.wikipedia.org)), for reference purposes. These links open in the user's default browser and are governed by the respective website's own Privacy Policy.
+
+The Developer has no control over, and assumes no responsibility for, the content, privacy practices, or policies of any third-party websites. Users are encouraged to review the privacy policy of any external site they visit.
 
 The Application does not integrate any third-party SDKs, analytics tools, advertising networks, or tracking mechanisms. No third party has access to any data generated through the use of this Application.
 
